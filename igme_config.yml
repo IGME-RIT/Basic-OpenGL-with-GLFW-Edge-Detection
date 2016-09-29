@@ -1,0 +1,17 @@
+series: Basic OpenGL with GLFW
+title: Edge Detection
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Use the sobel operator to detect gradients within an image.
+language: C++
+tags:
+  - Graphics
+  - Math
+extra_resources:
+  - link: https://en.wikipedia.org/wiki/Sobel_operator
+    title: Wikipedia: Sobel Operator
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Rendering to Textures
